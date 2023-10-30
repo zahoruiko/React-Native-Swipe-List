@@ -1,5 +1,5 @@
 # React-Native-Swipe-List
-# An example of implementation of a list with a function for swiping its elements in React Native
+# An example of implementing a list with the function of swiping its elements to the right and left in React Native
 
 # Getting Started
 
