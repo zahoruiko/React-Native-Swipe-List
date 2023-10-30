@@ -31,8 +31,8 @@ yarn start
 
 ### Swiping to the left
 
-<img src="https://github.com/zahoruiko/React-Native-Swipe-List/blob/main/promoImages/Screen-1.png" width="240" />
+<img src="https://github.com/zahoruiko/React-Native-Swipe-List/blob/main/promoImages/Screen-2.png" width="240" />
 
 ### Swiping to the right
 
-<img src="https://github.com/zahoruiko/React-Native-Swipe-List/blob/main/promoImages/Screen-1.png" width="240" />
+<img src="https://github.com/zahoruiko/React-Native-Swipe-List/blob/main/promoImages/Screen-3.png" width="240" />
